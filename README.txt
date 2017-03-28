@@ -3,9 +3,3 @@ This is my Git-hacking test-repo. Who knows what I will commit, merge, purge or 
 Adding random stuff
 random change
 bla bla
-
-
-FOO
-
-BAR
-
